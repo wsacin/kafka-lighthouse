@@ -6,3 +6,6 @@ migrations/
 *pdf
 *zip
 *log
+node_modules/
+*js
+*js.map
